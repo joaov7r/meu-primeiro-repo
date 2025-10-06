@@ -1,1 +1,2 @@
 Nova funcionalidade em desenvolvimento
+Alteração conflitante na main
